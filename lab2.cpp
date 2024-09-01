@@ -1,4 +1,4 @@
-// This code calculates the average grade. Gabriel Zuraa. Lab #2
+// This code calculates the average grade. Lab #2 Gabriel Zuraa
 #include <iostream>
 
 using namespace std;
